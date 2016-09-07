@@ -2,8 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://faceseo.vn'>http://faceseo.vn"+document.location.pathname+"</a>";
-    var copytext = pagelink;
+    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://bancanho.org/bat-dong-san/moonlight-residences-quan-thu-duc
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
     newdiv.style.left='-99999px';
